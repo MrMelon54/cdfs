@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cd-embed-fs.iml" filepath="$PROJECT_DIR$/.idea/cd-embed-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cdfs.iml" filepath="$PROJECT_DIR$/.idea/cdfs.iml" />
     </modules>
   </component>
 </project>
