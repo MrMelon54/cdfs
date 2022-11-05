@@ -1,3 +1,3 @@
-module code.mrmelon54.xyz/sean/cdfs
+module code.mrmelon54.com/sean/cdfs
 
 go 1.17
