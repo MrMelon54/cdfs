@@ -1,3 +1,3 @@
-module code.mrmelon54.com/sean/cdfs
+module github.com/MrMelon54/cdfs
 
 go 1.17
